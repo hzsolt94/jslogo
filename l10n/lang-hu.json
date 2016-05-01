@@ -135,7 +135,7 @@
       "remdup": [],
       "remove": [],
       "repcount": [],
-      "repeat": ["ismétel"],
+      "repeat": ["ismétel", "ismetel", "ismételd", "ismeteld", "ismétlés", "ismetles", "ism"],
       "rerandom": [],
       "reverse": [],
       "right": ["jobbra", "j"],
